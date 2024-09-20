@@ -54,6 +54,11 @@ export default tseslint.config({
 - `tsc -init`   Inicializa un proyecto ts
 - `tsc -w `     Entra en modo observador, revisa todos los archivos en busca de errores 
 
+# Proyecto de React con Vite 
+- [Vite](https://vitejs.dev/guide/) is a build tool that aims to provide a faster and leaner development experience for modern web projects.
+- `npm create vite@latest` Crea un proyecto de react con vite
+- `npm i` Instala las dependencias
+- `npm run dev` Ejecuta el proyecto
 # Tipos de datos
 
 ## Number
