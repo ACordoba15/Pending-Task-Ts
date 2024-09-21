@@ -306,7 +306,7 @@ function enviarCurriculum(programador: Programador) {
 enviarCurriculum(programador1);
 ```
 
-> Uso clases
+> Uso de clases
 ```
 class Pelicula {
     nombre?: string; // Si se deja sin '?' da error porque ts pide o inicializarlo o ponerle un '?'
